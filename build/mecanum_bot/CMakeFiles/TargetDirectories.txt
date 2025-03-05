@@ -1,0 +1,9 @@
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/uninstall.dir
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/mecanum_bot_uninstall.dir
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/test.dir
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/edit_cache.dir
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/rebuild_cache.dir
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/list_install_components.dir
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/install.dir
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/install/local.dir
+/home/tariq/ros2_ws2/build/mecanum_bot/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+Invoking command in '/home/tariq/ros2_ws2/build/mecanum_bot': CMAKE_PREFIX_PATH=/home/tariq/ros2_ws/install/my_first_contr:/opt/ros/humble /usr/bin/cmake --build /home/tariq/ros2_ws2/build/mecanum_bot -- -j20 -l20
+Invoked command in '/home/tariq/ros2_ws2/build/mecanum_bot' returned '0': CMAKE_PREFIX_PATH=/home/tariq/ros2_ws/install/my_first_contr:/opt/ros/humble /usr/bin/cmake --build /home/tariq/ros2_ws2/build/mecanum_bot -- -j20 -l20
+Invoking command in '/home/tariq/ros2_ws2/build/mecanum_bot': CMAKE_PREFIX_PATH=/home/tariq/ros2_ws/install/my_first_contr:/opt/ros/humble /usr/bin/cmake --install /home/tariq/ros2_ws2/build/mecanum_bot
+Invoked command in '/home/tariq/ros2_ws2/build/mecanum_bot' returned '0': CMAKE_PREFIX_PATH=/home/tariq/ros2_ws/install/my_first_contr:/opt/ros/humble /usr/bin/cmake --install /home/tariq/ros2_ws2/build/mecanum_bot

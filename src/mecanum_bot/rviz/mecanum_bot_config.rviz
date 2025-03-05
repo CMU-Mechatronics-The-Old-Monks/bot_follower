@@ -1,0 +1,7 @@
+Panels:
+- Class: rviz_common/DisplaysPanel
+Displays:
+- Name: RobotModel
+  Class: rviz_default_plugins/RobotModel
+- Name: TF
+  Class: rviz_default_plugins/TF

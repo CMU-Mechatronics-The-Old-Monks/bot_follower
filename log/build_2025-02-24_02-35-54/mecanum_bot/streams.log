@@ -1,0 +1,26 @@
+[0.008s] Invoking command in '/home/tariq/ros2_ws2/build/mecanum_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tariq/ros2_ws/install/my_first_contr:/opt/ros/humble /usr/bin/cmake --build /home/tariq/ros2_ws2/build/mecanum_bot -- -j20 -l20
+[0.039s] Invoked command in '/home/tariq/ros2_ws2/build/mecanum_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tariq/ros2_ws/install/my_first_contr:/opt/ros/humble /usr/bin/cmake --build /home/tariq/ros2_ws2/build/mecanum_bot -- -j20 -l20
+[0.064s] Invoking command in '/home/tariq/ros2_ws2/build/mecanum_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tariq/ros2_ws/install/my_first_contr:/opt/ros/humble /usr/bin/cmake --install /home/tariq/ros2_ws2/build/mecanum_bot
+[0.070s] -- Install configuration: ""
+[0.070s] -- Execute custom install script
+[0.070s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/launch/display.launch.py
+[0.071s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/urdf/mecanum_bot.urdf
+[0.071s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/lib/mecanum_bot/move_robot.py
+[0.071s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/lib/mecanum_bot/follow_path.py
+[0.071s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/lib/mecanum_bot/simulate_motion.py
+[0.071s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/ament_index/resource_index/package_run_dependencies/mecanum_bot
+[0.071s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/ament_index/resource_index/parent_prefix_path/mecanum_bot
+[0.071s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/environment/ament_prefix_path.sh
+[0.072s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/environment/ament_prefix_path.dsv
+[0.072s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/environment/path.sh
+[0.072s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/environment/path.dsv
+[0.072s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/local_setup.bash
+[0.072s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/local_setup.sh
+[0.072s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/local_setup.zsh
+[0.072s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/local_setup.dsv
+[0.072s] -- Symlinking: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/package.dsv
+[0.080s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/ament_index/resource_index/packages/mecanum_bot
+[0.080s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/cmake/mecanum_botConfig.cmake
+[0.080s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/cmake/mecanum_botConfig-version.cmake
+[0.080s] -- Up-to-date symlink: /home/tariq/ros2_ws2/install/mecanum_bot/share/mecanum_bot/package.xml
+[0.082s] Invoked command in '/home/tariq/ros2_ws2/build/mecanum_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tariq/ros2_ws/install/my_first_contr:/opt/ros/humble /usr/bin/cmake --install /home/tariq/ros2_ws2/build/mecanum_bot

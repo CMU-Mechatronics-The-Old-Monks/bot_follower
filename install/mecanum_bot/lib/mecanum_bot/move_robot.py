@@ -1,0 +1,1 @@
+/home/tariq/ros2_ws2/src/mecanum_bot/scripts/move_robot.py

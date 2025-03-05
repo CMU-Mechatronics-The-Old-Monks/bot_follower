@@ -1,4 +1,3 @@
-# bot_follower
 Instructions to run the sim
 
 1. First colcon build --symlink-install
